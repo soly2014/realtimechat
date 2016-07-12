@@ -1,0 +1,53 @@
+html,body{
+
+	height: 100%;
+}
+
+.container-fluid, .sidebar{
+
+	height: 100%;
+}
+
+
+.sidebar{
+
+    padding-top: 50px;
+	padding-left: 20px;
+
+}
+
+.chat-container{
+
+	height: 20px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	margin-right: 20px;
+
+
+}
+
+.chat-box, .chat-box .panel {
+
+	min-height: 400px;
+    max-height: 400px;
+	width: 300px;
+	margin-left: 9px;
+	margin-top: -151px;
+	position: relative;
+
+}
+
+.panel-footer{
+
+	height: 35px;	
+	width: 298px;
+	padding: 0;	
+	margin-top: 97px;
+
+}
+ .panel-body{
+
+    height: 151px;
+}
+
